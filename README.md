@@ -4,4 +4,4 @@
 - PUT
 - DELETE
 
-![Test](test.png)
+![Test](Test.png)
